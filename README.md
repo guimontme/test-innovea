@@ -6,6 +6,11 @@ This is a simple test that consumes the news feed API from [News API](https://ne
 * TypeScript
 * Vite
 
+## Before running
+
+Create a .env based on the example.env and get own your API KEY on [News API Website](https://newsapi.org/);
+
+
 ---
 
 ## Vue 3 + TypeScript + Vite
